@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MigraDoc.Extensions.Html")]
 [assembly: AssemblyDescription("MigraDoc.Extensions makes use of Html Agility Pack to convert from HTML to PDF.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Vertigo Ventures")]
 [assembly: AssemblyProduct("MigraDoc.Extensions.Html")]
 [assembly: AssemblyCopyright("Copyright ©  2021, MIT licensed")]
 [assembly: AssemblyTrademark("")]

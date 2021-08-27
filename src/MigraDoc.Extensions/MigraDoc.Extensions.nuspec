@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package >
-  <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <license type="expression">MIT</license>
-    <projectUrl>https://github.com/vertigoventures/migradoc-extensions</projectUrl>
-    <description>$description$</description>
-    <copyright>$copyright$</copyright>
-    <tags>MigraDoc, MigraDoc.Extensions</tags>
-  </metadata>
+<package>
+	<metadata>
+		<id>$id$</id>
+		<version>$version$</version>
+		<title>$title$</title>
+		<authors>$author$</authors>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<license type="expression">MIT</license>
+		<projectUrl>https://github.com/vertigoventures/migradoc-extensions</projectUrl>
+		<description>$description$</description>
+		<copyright>$copyright$</copyright>
+		<tags>MigraDoc, MigraDoc.Extensions</tags>
+		<dependencies>
+			<group targetFramework="net472">
+				<dependency id="PDFsharp-MigraDoc-GDI" version="1.50.5147" />
+			</group>
+		</dependencies>
+	</metadata>
 </package>
