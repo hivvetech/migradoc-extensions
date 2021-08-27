@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MigraDoc.Extensions.Markdown")]
 [assembly: AssemblyDescription("MigraDoc.Extensions makes use of MarkdownSharp to convert from Markdown to HTML.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Vertigo Ventures")]
 [assembly: AssemblyProduct("MigraDoc.Extensions.Markdown")]
 [assembly: AssemblyCopyright("Copyright ©  2021, MIT licensed")]
 [assembly: AssemblyTrademark("")]
