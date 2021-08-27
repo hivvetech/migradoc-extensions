@@ -1,6 +1,6 @@
 # MigraDoc.Extensions
 
-Extensions for [MigraDoc/PDFSharp](http://www.pdfsharp.net/Overview.ashx).
+Extensions for [MigraDoc/PDFSharp](http://www.pdfsharp.net/Overview.ashx). This project was forked from [benfoster/MigraDoc.Extensions](https://github.com/benfoster/MigraDoc.Extensions) project.
 
 ## Quick Start
 
