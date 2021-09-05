@@ -9,11 +9,11 @@ namespace MigraDoc.Extensions
         {
             if (paragraph == null)
             {
-                throw new ArgumentNullException("paragraph");
+                throw new ArgumentNullException(nameof(paragraph));
             }
             if (string.IsNullOrEmpty(style))
             {
-                throw new ArgumentNullException("style");
+                throw new ArgumentNullException(nameof(style));
             }
 
             paragraph.Style = style;

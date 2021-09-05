@@ -21,7 +21,7 @@ namespace MigraDoc.Extensions
         {
             if (formattedText == null)
             {
-                throw new ArgumentNullException("formattedText");
+                throw new ArgumentNullException(nameof(formattedText));
             }
 
             Action<FormattedText> formatter;
